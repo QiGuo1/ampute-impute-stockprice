@@ -8,3 +8,9 @@ The objective of this study is to:
 
 2. After amputation, Use the <b>KNN imputation</b> to predict the missing values of stocks in the portfolio.
 
+3. Finally, Merge the COVID dataset for further analysis.
+
+
+<b>Resources:</b>
+<br>Covid-19 data is taken from Github John Hopkins Repository
+<br>https://github.com/CSSEGISandData/COVID-19
